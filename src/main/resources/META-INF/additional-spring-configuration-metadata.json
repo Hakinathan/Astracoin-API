@@ -1,0 +1,28 @@
+{
+  "properties": [
+    {
+      "name": "oauth.discord.clientsecret",
+      "type": "java.lang.String",
+      "description": "Description for oauth.discord.clientsecret."
+    },
+    {
+      "name": "oauth.discord.clientid",
+      "type": "java.lang.String",
+      "description": "Description for oauth.discord.clientid."
+    },
+    {
+      "name": "oauth.discord.grandtype",
+      "type": "java.lang.String",
+      "description": "Description for oauth.discord.grandtype."
+    },
+    {
+      "name": "oauth.discord.redirecturi",
+      "type": "java.lang.String",
+      "description": "Description for oauth.discord.redirecturi."
+    },
+    {
+      "name": "jwt.secretkey",
+      "type": "java.lang.String",
+      "description": "Description for jwt.secretkey."
+    }
+  ] }
